@@ -4,6 +4,8 @@
 ![](https://github.com/geekfory/H610M-A-12400-6600xt-AX201-OC-0.8.5-macOS/blob/main/H610M-A-12400-6600xt-AX201-OC-0.8.5-macOS.png)
 
 ### 配置单
+| 配置     | 型号                               |
+| -------- | ---------------------------------- |
 | 处理器   | 12th Gen Intel Core i5-12400       |
 | 主   板  | 华硕 PRIME H610M-A D4              |
 | 内   存  | 玖合 DDR4 3200MHz 16GB x 2         |
