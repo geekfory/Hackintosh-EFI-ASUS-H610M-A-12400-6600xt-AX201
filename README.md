@@ -16,7 +16,7 @@
 | 显示器 1 | 冠捷 AOC2479 2479W ( 23.5 英寸 )   |
 | 显示器 2 | 酷开 FKS2150 C215J ( 21.5 英寸 )   |
 
-[点击右侧Releases下载](https://github.com/geekfory/Hackintosh-EFI-ASUS-H610M-A-12400-6600xt-AX201/releases)
+[点击右侧 Releases 下载](https://github.com/geekfory/Hackintosh-EFI-ASUS-H610M-A-12400-6600xt-AX201/releases)
 
 ### 功能
 - 睡眠唤醒正常
