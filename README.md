@@ -1,5 +1,5 @@
 
-## **华硕H610M-A + 12400 + 6600xt + AX201 + OC 0.8.5 + macOS Ventura 13.0** ##
+## **华硕H610M-A + 12400 + 6600xt + AX201 + OC 0.9.0 + macOS Ventura 13.0** ##
 
 ![](https://github.com/geekfory/H610M-A-12400-6600xt-AX201-OC-0.8.5-macOS/blob/main/H610M-A-12400-6600xt-AX201-OC-0.8.5-macOS.png)
 
@@ -15,6 +15,8 @@
 | 无线网卡 | Intel Wi-Fi 6 AX201 (CNVI) 带蓝牙  |
 | 显示器 1 | 冠捷 AOC2479 2479W ( 23.5 英寸 )   |
 | 显示器 2 | 酷开 FKS2150 C215J ( 21.5 英寸 )   |
+
+[点击右侧Releases下载](https://github.com/geekfory/Hackintosh-EFI-ASUS-H610M-A-12400-6600xt-AX201/releases)
 
 ### 功能
 - 睡眠唤醒正常
